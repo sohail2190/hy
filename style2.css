@@ -1,0 +1,59 @@
+h1{
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+    font-family: alvi nastaleeq;
+    width: 100%;
+    margin: 1px;
+}
+h2{
+    font-size: 30px;
+    font-family: alvi nastaleeq;
+    text-align: right;
+
+}
+.header, footer{
+    width: 100%;
+    font-family: alvi nastaleeq;
+    padding: 0px;
+    background-color: aqua;
+}
+p{
+    font-size: 22px;
+    font-family: alvi nastaleeq;
+    text-align: right;
+    margin-right: 35px;
+    margin-left: 35px;
+}
+.arabic{
+    font-size: 21px;
+    font-family: al arabic;
+    text-align: right;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+a:link, a:visited{
+    font-size: 30px;
+    font-family: alvi nastaleeq;
+    color: white;
+    margin-right: 50px;
+}
+a:hover, a:active{
+    background-color: red;
+    padding: 10px;
+    color:black;
+}
+nav{
+    background-color:darkolivegreen;
+    width: 100%;
+    padding: 10px;    
+}
+ol, li{
+    margin-right:25px;
+    direction:rtl ;
+    font-size:30px ;
+    text-align:right ;
+    font-family:alvi nastaleeq ;
+}
